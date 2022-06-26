@@ -30,10 +30,6 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/the-matheuslima/the-matheuslima/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h3 align="left">Contacts</h3>
 
 ###
