@@ -1,5 +1,4 @@
 <h2 align="left">👩🏾‍💻About me:</h2>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=the-matheuslima.the-matheuslima&left_color=darkorange&right_color=indigo"  />
 
 ###
 
