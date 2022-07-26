@@ -2,7 +2,13 @@
 
 ###
 
-<p align="left">Hi! my name is Matheus, I am 18 years old. I'm a front-end developer and.<br><br>🤔   Exploring new technologies and developing software solutions and quick hacks.<br><br>✍️   Seeking knowledge.</p>
+<br clear="both">
+
+<img align="right" height="200" src="https://c.tenor.com/pfdsiZzI1psAAAAC/one-punch-man-one.gif"  />
+
+###
+
+<p align="left">Oi! meu nome é Matheus, tenho 18 anos. Sou desenvolvedor front-end.<br><br>🤔 Explorando novas tecnologias e desenvolvendo soluções de software e hacks rápidos.<br><br>✍️ Estudando Atualmente :  Redux e TypeScript.<br><br>📝Pretendo Estudar: React Native, nodeJs e GraphQL.</p>
 
 ###
 
@@ -15,7 +21,7 @@
 
 ###
 
-<h3 align="left">🚀💻 Technologies & Tools</h3>
+<h3 align="left">🚀💻 Tecnologias e Ferramentas</h3>
 
 ###
 
@@ -30,15 +36,17 @@
 
 ###
 
-<h3 align="left">Contacts</h3>
+<h3 align="left">contato</h3>
 
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/matheus-lima-8240b7228/" target="_blank">
+  <a href="https://www.linkedin.com/in/matheus-lima-the-dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="mailto:matheuslima.thedev@gmail.com?subject=Questions" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
+
+###
