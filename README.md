@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Oi! meu nome é Matheus, tenho 18 anos. Sou desenvolvedor front-end.<br><br>✍️ Estudando Atualmente : Redux e TypeScript.<br><br>📝Pretendo Estudar: React Native, nodeJs e GraphQL.</p>
+<p align="left">Oi! meu nome é Matheus, tenho 18 anos. Sou desenvolvedor front-end.<br><br>✍️ Estudando Atualmente : NodeJs.<br><br>📝Pretendo Estudar: React Native e GraphQL.</p>
 
 ###
 
