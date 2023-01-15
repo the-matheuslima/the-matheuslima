@@ -2,15 +2,17 @@
 
 ###
 
-<p align="left">Oi! meu nome é Matheus, tenho 18 anos. Sou desenvolvedor front-end.<br><br>✍️ Estudando Atualmente : NodeJs.<br><br>📝Pretendo Estudar: React Native e GraphQL.</p>
+<p align="left">Oi! meu nome é Matheus, tenho 18 anos. Sou desenvolvedor front-end.<br><br>✍️ Estudando Atualmente : Nextjs.<br><br>📝Pretendo Estudar: React Native e NodeJs.</p>
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=pt-br&hide_border=false&username=the-matheuslima" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&username=the-matheuslima" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=pt-br&hide_border=false&username=the-matheuslima&show_icons=true" height="150" alt="stats graph"  />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?locale=pt-br&hide_title=false&card_width=320&langs_count=5&theme=react&hide_border=false&username=the-matheuslima&layout=compact" height="150" alt="languages graph"  />
+ 
 </div>
 
 ###
